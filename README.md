@@ -1,5 +1,5 @@
 # Dashboard-Excel-Ventas-tienda-de-tecnologia
-__Creación de dashboard interactivo en Tablau__
+__Creación de dashboard interactivo usando Microsft Excel__
 
 <image src="https://github.com/BastianLQ/Dashboard-Excel-Ventas-tienda-de-tecnologia/blob/main/Screenshot.png" alt="Dashboard">
 
