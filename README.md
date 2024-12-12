@@ -16,6 +16,7 @@ Después de ordenar las ideas, me planteé hacer una estructura simple de cuatro
 
   - Montos vendidos por vendedor a través del tiempo. 
   - Montos totales vendidos por cada tienda a través del tiempo.
+  - Productos vendidos (% del total) a través del tiempo.
   - Productos vendidos (% del total) por cada tienda a través del tiempo.
   - Vendedores destacados por tienda.
   - Valor de venta de cada producto en stock.
