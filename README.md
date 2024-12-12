@@ -3,7 +3,7 @@ __Creación de dashboard interactivo usando Microsft Excel__
 
 <image src="https://github.com/BastianLQ/Dashboard-Excel-Ventas-tienda-de-tecnologia/blob/main/Screenshot.png" alt="Dashboard">
 
-_Captura de pantalla del dashboard, para descargar hacer click [aquí](https://github.com/BastianLQ/Dashboard-Excel-Ventas-tienda-de-tecnologia/blob/main/L%C3%B3pez_Basti%C3%A1n_Actividad_practica_semana_7_TDA102.xlsx)_
+_Captura de pantalla del dashboard, para ver completo descargar el siguente [archivo](https://github.com/BastianLQ/Dashboard-Excel-Ventas-tienda-de-tecnologia/blob/main/L%C3%B3pez_Basti%C3%A1n_Actividad_practica_semana_7_TDA102.xlsx)_
 
 ## Descripción del Proyecto
 El proyecto es para la evaluación final del ramo "TICS para los negocios" de la carrera Ingeniería en Data Science del instituo profesional AIEP, se proporciona una base de datos en Excel y se mencionan aspectos obligatorios como:
