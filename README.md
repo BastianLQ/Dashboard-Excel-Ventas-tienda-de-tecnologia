@@ -3,7 +3,7 @@ __Creación de dashboard interactivo usando Microsft Excel__
 
 <image src="https://github.com/BastianLQ/Dashboard-Excel-Ventas-tienda-de-tecnologia/blob/main/Screenshot.png" alt="Dashboard">
 
-_Captura de pantalla del dashboard, para ver en Tableau hacer click [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)_
+_Captura de pantalla del dashboard, para descargar hacer click [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)_
 
 ## Descripción del Proyecto
 El proyecto es para la evaluación final del ramo "TICS para los negocios" de la carrera Ingeniería en Data Science del instituo profesional AIEP, se proporciona una base de datos en Excel y se mencionan aspectos obligatorios como:
@@ -22,5 +22,5 @@ Después de ordenar las ideas, me planteé hacer una estructura simple de cuatro
   - Vendedores que más vendieron determinado producto.
   - Ventas de cada producto a través del tiempo.
     
-## Ejecuta el dashboard [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)
+## Descarga el archivo[aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)
 Para ver e interactuar con el dashboard haz click en el enlace de arriba.
